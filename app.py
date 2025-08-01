@@ -11,6 +11,11 @@ pt = joblib.load('pt.pkl')
 books = joblib.load('books.pkl')
 similarity_scores = joblib.load('similarity_scores.pkl')
 
+print(similarity_scores)
+print(popular_df['Book-Author'].values)
+print(pt)
+print(books)
+
 app = Flask(__name__)
 
 
