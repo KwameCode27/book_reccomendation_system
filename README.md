@@ -1,4 +1,4 @@
-# 📚 BookVerse - Smart Book Recommendation System
+# 📚 Books - Smart Book Recommendation System
 
 <div align="center">
   <p><em>Discover your next favorite book with AI-powered recommendations and curated top picks</em></p>
